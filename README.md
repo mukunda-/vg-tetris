@@ -1,4 +1,4 @@
-vg-tetris
+Tetris: Source
 =========
 
 Tetris: Source is a Tetris iteration for SourceMod Entertainment System
